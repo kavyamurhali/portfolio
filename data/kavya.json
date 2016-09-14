@@ -1,0 +1,127 @@
+{
+		   
+	"objectives": {
+		"Job is my job": {
+			"Job Impact": ["Impacts project performance by contributing to high level UX, UI and Prototype design achieved primarily through personal efforts in implementation and high level design activity, working closely with teams, providing some mentoring and act as first point of contact for any technical issue on the assigned work."],
+			"Scope": ["Performs large size infrastructure management or programming tasks with high level of complexity. Performs analysis, writes program specifications and develops designs for large size projects."],
+			"Decision-Making Authority": ["Mentors team on application and technology and aware of team's strengths and weaknesses. Create WBS and maps to team members."]
+		},
+		"Responsibilities And Tasks": {
+			"Software development life cycle ": [
+			"Work on fairly complex programming, applications systems analysis and support project.",
+			"Regularly leads small or medium size projects to develop or deploy solutions.",
+			"Interacts with onshore teams (Business/ IT) to understand system requirements and co-relate with business scope",
+			"Responsible for all technical solution for a given project or a module",
+			"Involved in software development and maintenance activities."
+			],
+			"Infrastructure Management Product Support": [
+			"Works on the most complex projects.",
+			"Interacts with Software development life cycle and onshore teams (Business/ IT) to understand infrastructure requirement and co-relate with business scope.",
+			"Responsible for all technical solutions for a given project or a module.",
+			"Ensures conformance with the given specification and quality systems procedures.",
+			"Involved in infrastructure management and product support activities and can trouble-shoot complex problems/ issues."
+			]
+		},
+		"Experiences": {
+			"Core Experiences ": [
+			"Work experience of about 7+ yrs.",
+			"Expert in Software development life cycle or IT Infrastructure management processes and the that are required for performing day to day tasks.",
+			"Proficient in design concepts and patterns.",
+			"Understanding Software development life cycle or infrastructure management best practices / standards to be adopted by the team.",
+			"Depth of experience in multiple technologies / sub-domains."
+			],
+			"Desired Experiences": [
+			"Knowledge of system architecture components and techniques patterns or infrastructure architecture components (platforms, servers, networks etc.)",
+			"Good communication, presentation, inter-personal and soft skills."
+			],
+			
+		}
+	},
+	"Education": {
+		"Graduation": [
+		"Completed my Under Graduation in Bachelors of technology in the year 2008 offered by jawaharlalnehru technology University ."
+		],
+		
+	},
+	"Skills": {
+		"Web Application": [
+		"HTML5",
+		"CSS3",
+		"JavaScript",
+		"Flash","Adobe Flex"
+		],
+		"Design Tool": [
+		"Dreamweaver",
+		"Photoshop",
+		"Illustrator",
+		"Balsamiq",
+		"Flash",
+		"Flash Builder",
+		"Visual Studio 2013"
+		],
+		"Web-application Frameworks": [
+			"AngularJS",
+			"React JS",
+			"UndersoreJS",
+			"Jquery Template"
+			],
+			"DOM": [
+			"jQuery",
+			"Dojo Toolkit",
+			"MooTools",
+			"Prototype JavaScript Framework"
+			],
+			"GUI": [
+			"jQuery UI"
+			],
+			"Graphical/Visualization": [
+			"D3 JS",
+			"Kinetic.js"
+			],
+			"Template Systems": [
+			"jQuery Mobile"
+			],
+			"CSS": [
+			"Foundation", "Bootstrap",
+			"Responsive Grid System",
+			"SASS & LESS"
+			],
+		"Database":[
+			"MySQL",
+			"Oracle"
+		],
+		"Version Controls":[
+			"Git",
+			"SVN",
+			"TFS",
+			"Visual SourceSafe (VSS)"
+		],
+		"Methodologies":[
+			"Agile",
+			"Waterfall",
+			"Scrum"
+		],
+		"Mobile Application": [
+			"Android and iOS"
+		],
+		"Other": [
+			"C",
+			"Java",
+			"Oracle",
+			"SQL",
+			"MS office"
+		]
+	},
+	"Achievements":
+	
+	"Personal":
+	{
+		"Name": "kavya sree",
+		"DOB": "13th August 1986",
+		"Languages": "English, Telugu, Hindi",
+		"Mobile": "619-800-1242",
+		"Email": "kavya.murhali@gmail.com",
+		"VISA": "H1B valid till 2017"
+	}
+
+}
